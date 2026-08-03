@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**CSNimrah/CSNimrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nimrah Fayyaz, a CS student in Oman, currently in my 3rd year at GUtech.
 
-Here are some ideas to get you started:
+I'm into networking, cybersecurity, and systems — I like understanding how things work under the hood, not just how to use them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current stack: Python, Docker, Linux, and diving into web dev (React) and data engineering along the way.
+
+I'm big on hands-on, free learning — OSTEP for OS internals, TryHackMe and Wireshark for security, and building small projects to actually test what I learn instead of just watching tutorials.
+
+Currently working on:
+- 🐳 A Docker containerization pipeline project
+- 📶 Networking fundamentals — subnetting, routing, VLANs
+
+Fun facts:
+- I'm learning Arabic and German at the same time
+- I catch my own math/logic mistakes before Claude does 😄
