@@ -1,17 +1,29 @@
 ## Hi there 👋
 
-I'm Nimrah Fayyaz, a CS student in Oman, currently in my 3rd year at GUtech.
+# Hi, I'm Nimrah 👋
 
-I'm into networking, cybersecurity, and systems — I like understanding how things work under the hood, not just how to use them.
+🎓 Third-year Computer Science student at **GUtech**
+💻 Interested in **Software Development, Networking & Cybersecurity**
+🐍 Currently working with **Python, C++, SQL, JavaScript, Linux & Networking**
+🤖 Research experience in **AI/ML and Multimodal Deepfake Detection**
+🎨 Interested in **UI/UX and Figma prototyping**
+🚀 Always learning, building, and exploring new technologies
 
-My current stack: Python, Docker, Linux, and diving into web dev (React) and data engineering along the way.
+### 🛠️ Technologies & Tools
 
-I'm big on hands-on, free learning — OSTEP for OS internals, TryHackMe and Wireshark for security, and building small projects to actually test what I learn instead of just watching tutorials.
+**Languages:** Python · C++ · SQL · JavaScript
+**Web:** HTML · CSS
+**Databases:** MySQL · MongoDB
+**Systems & Networking:** Linux · Networking Fundamentals
+**UI/UX:** Figma
+**Tools:** Git · GitHub · VS Code
 
-Currently working on:
-- 🐳 A Docker containerization pipeline project
-- 📶 Networking fundamentals — subnetting, routing, VLANs
+### 📌 Currently Learning
 
-Fun facts:
-- I'm learning Arabic and German at the same time
-- I catch my own math/logic mistakes before Claude does 😄
+* JavaScript
+* Linux & Networking
+* Cybersecurity fundamentals
+* Cloud computing
+
+
+
