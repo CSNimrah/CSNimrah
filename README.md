@@ -2,7 +2,7 @@
 
 # Hi, I'm Nimrah 👋
 
-🎓 Third-year Computer Science student at **GUtech**
+🎓 Third-year Computer Science student at **GUtech**..
 💻 Interested in **Software Development, Networking & Cybersecurity**
 🐍 Currently working with **Python, C++, SQL, JavaScript, Linux & Networking**
 🤖 Research experience in **AI/ML and Multimodal Deepfake Detection**
